@@ -1,4 +1,4 @@
-**7 Hari Bersama Python**
+## 7 Hari Bersama Python
 
 Python adalah bahasa pemrograman tingkat tinggi dan serbaguna. Bahasa pemrograman digunakan untuk menulis instruksi bagi komputer. Tingkat tinggi berarti perintah Python ditulis dengan kombinasi kata-kata Inggris dan simbol khusus. Serbaguna berarti Python digunakan oleh banyak orang untuk berbagai jenis aplikasi, seperti aplikasi desktop dan situs web.
 

@@ -1,6 +1,6 @@
-**Hari 1: Pengenalan Python**
-**Program Pertama: Hello World**
+## **Hari 1: Pengenalan Python**
 
+## Program Pertama: Hello World
 Ketika seseorang belajar pemrograman, tradisi yang biasa dilakukan adalah memulai dengan program Hello, World. Program sederhana ini memverifikasi bahwa Anda telah menginstal alat Python dengan benar.
 1. Dari panel navigasi di IDE, buat file baru dengan nama `hello_world.py`.
 2. Di dalam file tersebut, masukkan kode berikut:
@@ -14,8 +14,7 @@ Ketika seseorang belajar pemrograman, tradisi yang biasa dilakukan adalah memula
 
 Selamat! Anda telah menulis program Python pertama Anda.
 
-**Menjalankan Python di VSCode**
-
+## Menjalankan Python di VSCode
 1. Buka Visual Studio Code (VSCode).
 2. Pastikan Anda telah menginstal ekstensi Python di VSCode.
 3. Buka terminal di VSCode (View > Terminal).
@@ -24,8 +23,7 @@ Selamat! Anda telah menulis program Python pertama Anda.
     python --version
     ```
 
-**Komentar**
-
+## Komentar
 Komentar digunakan untuk menambahkan catatan dalam kode Anda yang tidak akan dieksekusi oleh Python. Komentar ditandai dengan simbol `#`.
 Contoh:
 ```python
@@ -33,8 +31,7 @@ Contoh:
 print("Hello, World")  # Ini juga komentar
 ```
 
-**Variabel**
-
+## Variabel
 Variabel digunakan untuk menyimpan data yang dapat digunakan kembali di dalam program.
 Contoh:
 ```python
@@ -44,17 +41,29 @@ print(nama)
 print(umur)
 ```
 
-**Konstanta**
-
+## Konstanta
 Konstanta adalah variabel yang nilainya tidak berubah. Dalam praktiknya, Python tidak memiliki konstanta bawaan, tetapi Anda bisa menggunakan huruf besar untuk menandai bahwa variabel tersebut harus diperlakukan sebagai konstanta.
 Contoh:
 ```python
 PI = 3.14
 GRAVITASI = 9.8
 ```
-**Tipe Data**
+## Tipe Data
 Python memiliki beberapa tipe data dasar:
 - **String**:Teks, dikelilingi oleh tanda kutip.
 ```python
 teks = "Hello"
+```
+- **Integer**: Angka bulat.
+```python
+angka = 10
+```
+- **Float**: Angka desimal.
+```python
+desimal = 3.14
+```
+- **Boolean**: Nilai benar atau salah.
+```python
+benar = True
+salah = False
 ```
