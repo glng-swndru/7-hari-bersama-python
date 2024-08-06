@@ -79,3 +79,14 @@ Operator digunakan untuk melakukan operasi pada variabel dan nilai.
     - Eksponen: **
     - Pembagian Lantai: //
 Contoh:
+```python
+a = 10
+b = 5
+print(a + b)  # Penjumlahan
+print(a - b)  # Pengurangan
+print(a * b)  # Perkalian
+print(a / b)  # Pembagian
+print(a % b)  # Modulus
+print(a ** b) # Eksponen
+print(a // b) # Pembagian Lantai
+```
