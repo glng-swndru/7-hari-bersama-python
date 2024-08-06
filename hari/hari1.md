@@ -23,6 +23,10 @@ Selamat! Anda telah menulis program Python pertama Anda.
     ```sh
     python --version
     ```
+    untuk run code Python di vscode, masukkan perintah berikut:
+    ```sh
+    python hello_world.py
+    ```
 
 ## Komentar
 Komentar digunakan untuk menambahkan catatan dalam kode Anda yang tidak akan dieksekusi oleh Python. Komentar ditandai dengan simbol `#`.
