@@ -67,3 +67,15 @@ desimal = 3.14
 benar = True
 salah = False
 ```
+
+## Operator
+Operator digunakan untuk melakukan operasi pada variabel dan nilai.
++ Operator Aritmatika:
+    - Penjumlahan: +
+    - Pengurangan: -
+    - Perkalian: *
+    - Pembagian: /
+    - Modulus: %
+    - Eksponen: **
+    - Pembagian Lantai: //
+Contoh:
