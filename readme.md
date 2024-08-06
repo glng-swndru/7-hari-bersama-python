@@ -1,4 +1,4 @@
-**Pengenalan Python**
+**7 Hari Bersama Python**
 
 Python adalah bahasa pemrograman tingkat tinggi dan serbaguna. Bahasa pemrograman digunakan untuk menulis instruksi bagi komputer. Tingkat tinggi berarti perintah Python ditulis dengan kombinasi kata-kata Inggris dan simbol khusus. Serbaguna berarti Python digunakan oleh banyak orang untuk berbagai jenis aplikasi, seperti aplikasi desktop dan situs web.
 
@@ -28,4 +28,14 @@ Python 2.7.18
 ~ $ python3 --version
 Python 3.6.12
 ```
-Lanjut ke [Hari 1](https://github.com/glng-swndru/7-days-of-python/tree/main/Day1-Introduction)
+## Start here
+
+| Hari      | Topik |
+| ----------- | ----------- |
+| Day 1   | [Pengenalan Python](hari/hari1.md)       |
+| Day 2   | [Python Loops, Functions, Modules, and Libraries](hari/hari2.md)        |
+| Day 3   | [Python Data Structures and OOP](hari/hari3.md)       |
+| Day 4   | [Debugging, Testing, and Regular Expressions](hari/hari4.md)        |
+| Day 5   | [Web Development in Python](hari/hari5.md)       |
+| Day 6   | [Automation with Python](hari/hari6.md)        |
+| Day 7   | [Let's Build an App in Python](hari/hari7.md)        |
