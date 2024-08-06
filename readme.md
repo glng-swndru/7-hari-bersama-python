@@ -33,9 +33,9 @@ Python 3.6.12
 | Hari      | Topik |
 | ----------- | ----------- |
 | Day 1   | [Pengenalan Python](hari/hari1.md)       |
-| Day 2   | [Tipe Data dan Struktur Data](hari/hari2.md)        |
-| Day 3   | [Struktur Kontrol](hari/hari3.md)       |
-| Day 4   | [Debugging dan Testing](hari/hari4.md)        |
-| Day 5   | [Modul dan Library](hari/hari5.md)       |
-| Day 6   | [Automasi dengan Python](hari/hari6.md)        |
-| Day 7   | [Python dalam DevOps dan Administrasi Sistem](hari/hari7.md)        |
+| Day 2   | [Loop, Fungsi, dan Modul](hari/hari2.md)        |
+| Day 3   | [Struktur Data dan OOP](hari/hari3.md)       |
+| Day 4   | [Debugging, Testing, dan Regular Expression](hari/hari4.md)        |
+| Day 5   | [Automasi dengan Python](hari/hari5.md)       |
+| Day 6   | [DevOps dan Continuous Integration](hari/hari6.md)        |
+| Day 7   | [Pengelolaan Infrastruktur dan Proyek Akhir](hari/hari7.md)        |
