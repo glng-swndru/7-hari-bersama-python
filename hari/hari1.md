@@ -19,6 +19,7 @@ Selamat! Anda telah menulis program Python pertama Anda.
 2. Pastikan Anda telah menginstal ekstensi Python di VSCode.
 3. Buka terminal di VSCode (View > Terminal).
 4. Jalankan perintah berikut untuk memastikan Python terinstal dengan benar:
+
     ```sh
     python --version
     ```
