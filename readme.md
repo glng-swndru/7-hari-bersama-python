@@ -1,4 +1,4 @@
-**Hari 1: Pengenalan Python**
+**Pengenalan Python**
 
 Python adalah bahasa pemrograman tingkat tinggi dan serbaguna. Bahasa pemrograman digunakan untuk menulis instruksi bagi komputer. Tingkat tinggi berarti perintah Python ditulis dengan kombinasi kata-kata Inggris dan simbol khusus. Serbaguna berarti Python digunakan oleh banyak orang untuk berbagai jenis aplikasi, seperti aplikasi desktop dan situs web.
 
@@ -17,4 +17,15 @@ Untuk memeriksa versi Python lainnya yang tersedia, masukkan perintah berikut:
 ```sh
 python2 --version
 python3 --version
+```
+Anda mungkin akan melihat hasil yang mirip dengan contoh berikut:
+```sh
+~ $ python --version
+Python 3.6.12
+
+~ $ python2 --version
+Python 2.7.18
+
+~ $ python3 --version
+Python 3.6.12
 ```
