@@ -54,7 +54,7 @@ GRAVITASI = 9.8
 ```
 **Tipe Data**
 Python memiliki beberapa tipe data dasar:
-- *String*:Teks, dikelilingi oleh tanda kutip.
+- **String**:Teks, dikelilingi oleh tanda kutip.
 ```python
 teks = "Hello"
 ```
