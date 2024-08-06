@@ -28,14 +28,14 @@ Python 2.7.18
 ~ $ python3 --version
 Python 3.6.12
 ```
-## Start here
+## Mulai disini
 
 | Hari      | Topik |
 | ----------- | ----------- |
 | Day 1   | [Pengenalan Python](hari/hari1.md)       |
-| Day 2   | [Python Loops, Functions, Modules, and Libraries](hari/hari2.md)        |
-| Day 3   | [Python Data Structures and OOP](hari/hari3.md)       |
-| Day 4   | [Debugging, Testing, and Regular Expressions](hari/hari4.md)        |
-| Day 5   | [Web Development in Python](hari/hari5.md)       |
-| Day 6   | [Automation with Python](hari/hari6.md)        |
-| Day 7   | [Let's Build an App in Python](hari/hari7.md)        |
+| Day 2   | [Tipe Data dan Struktur Data](hari/hari2.md)        |
+| Day 3   | [Struktur Kontrol](hari/hari3.md)       |
+| Day 4   | [Debugging dan Testing](hari/hari4.md)        |
+| Day 5   | [Modul dan Library](hari/hari5.md)       |
+| Day 6   | [Automasi dengan Python](hari/hari6.md)        |
+| Day 7   | [Python dalam DevOps dan Administrasi Sistem](hari/hari7.md)        |
